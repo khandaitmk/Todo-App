@@ -1,4 +1,4 @@
-import todos from "../../../todos.json"
+// import todos from "../../../todos.json"
 
 // export async function GET(request, { params }) {
 //   // console.log("PARAMS =", params);
